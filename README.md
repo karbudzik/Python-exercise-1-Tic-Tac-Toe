@@ -5,32 +5,16 @@ First exercise while learning Python
 Exercise performed while learning Python during Codecool course.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.jpeg)
+![Example screenshot](./img/screenshot.png)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
-
-## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+* Python 3
 
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+The tic-tac-toe game is programmed to:
+* play with other human
+* play with unbeatable AI
+Game was programmed with user experience in mind (e.g. proper descriptions and clear input validation)
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
-
-## Inspiration
-Add here credits. Project inspired by..., based on...
+Project is finished. In the future might undergo some code refactoring.
